@@ -1,4 +1,4 @@
-# How to read Webcam
+# How to read default and external Webcam
 
 #importing Library
 import cv2 
