@@ -50,3 +50,6 @@ while True:
     cv2.imshow("Img Result", imgResult)
 
     cv2.waitKey(1)
+
+
+# My Result = 6, 20 ,91 255, 117, 255
